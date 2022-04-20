@@ -17,7 +17,6 @@ module.exports = [
   '0x1b647A6C52818bbCf0af6B67A07978022980735b',  //account 1//
   '0xF0FfD755b4bD23Eab7fDE858257B7a004476E186',  //tp-bsc//
   '0x6e910B4503B5C2576b1395ed3461c58721C09195'  //account 3//
-  // '0x623CD18A2344476063Ee2f806EEdDdbcE9cd5499',  //testnet -contract owner//
   // '0x59c309aa23F4c03E9639845060f0ca7977BBE8D1',  //not whitelist//
 
 ]
